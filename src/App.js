@@ -105,7 +105,7 @@ export default function App() {
               </a>
 
               <a
-                href="/resume.pdf"
+                href="/portfolio/resume.pdf"
                 className="border border-slate-700 hover:border-blue-500 px-6 py-3 rounded-xl font-medium transition"
               >
                 Download Resume
